@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey, I'm Muntajib
 
-<!--
-**Wajju67/Wajju67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate from Maharashtra, India — I build and break things on Linux.
 
-Here are some ideas to get you started:
+My setup: a self-hosted TrueNAS home server, Docker-containerized services,
+and a fully local n8n AI automation pipeline — all running without cloud dependency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- **OS:** Linux (Ubuntu, Fedora, Zorin OS, Mint) · Windows
+- **Infrastructure:** Docker · TrueNAS · self-hosted services
+- **Scripting:** Bash · Shell · Git
+- **Automation:** n8n · local AI agents · CI/CD concepts
+- **Networking:** SSH · firewall config · access control
+- **Web:** HTML · CSS · JavaScript
+
+### Currently
+- Deepening Docker + Git workflow discipline
+- Exploring Kubernetes basics and cloud VM provisioning
+- Open to junior DevOps / Linux admin / IT roles
+
+### Projects
+- **Home lab server** — TrueNAS NAS with 2TB+ storage, ZFS pools, Docker services
+- **Local AI pipeline** — n8n automation agent, fully offline, Bash-managed
+- **Linux distro lab** — 6+ distros tested, dotfiles tracked via Git
