@@ -8,7 +8,7 @@ and a fully local n8n AI automation pipeline — all running without cloud depen
 ### What I work with
 - **OS:** Linux (Ubuntu, Fedora, Zorin OS, Mint) · Windows
 - **Infrastructure:** Docker · TrueNAS · self-hosted services
-- **Scripting:** Bash · Shell · Git
+- **Scripting:** Bash · Git
 - **Automation:** n8n · local AI agents · CI/CD concepts
 - **Networking:** SSH · firewall config · access control
 - **Web:** HTML · CSS · JavaScript
